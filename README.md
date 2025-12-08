@@ -8,10 +8,11 @@
 
 Hi!👋 I'm a backend developer.  
 I'm currently studying Java and Spring.  
-I have experience in planning and front-end development, so I can collaborate with a variety of fields!  
+I have experience in planning and frontend development, so I can collaborate with a variety of fields!  
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,idea,git,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,git,figma,notion)](https://skillicons.dev)
 
 ## Links
 <a href="https://velog.io/@_sooyeon/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=&logoColor=white"/></a>
