@@ -12,6 +12,7 @@ I have experience in planning and frontend development, so I can collaborate wit
 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=idea,git,figma,notion)](https://skillicons.dev)
 
 ## Links
