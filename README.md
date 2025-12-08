@@ -6,11 +6,8 @@
   />
 </a>
 
-# sooyeonz 👋
-Hi! I'm a backend developer.
-
+Hi!👋 I'm a backend developer.
 I'm currently studying Java and Spring.
-
 I have experience in planning and front-end development, so I can collaborate with a variety of fields!
 
 ## Languages & Tools
