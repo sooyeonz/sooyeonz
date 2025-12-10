@@ -1,10 +1,12 @@
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooyeonz&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/sooyeonz?pet-id=753791167167828158"
+    src="https://render.gitanimals.org/lines/sooyeonz?pet-id=786414630542077361"
     width="600"
-    height="120"
+    height="150"
   />
 </a>
+  
 
 Hi!👋 I'm a backend developer.  
 I'm currently studying Java and Spring.  
