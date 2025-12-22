@@ -10,7 +10,6 @@
 
 Hi!👋 I'm a backend developer.  
 I'm currently studying Java and Spring.  
-I have experience in planning and frontend development, so I can collaborate with a variety of fields!  
 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,postgres)](https://skillicons.dev)
