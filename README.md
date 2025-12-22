@@ -9,7 +9,7 @@
   
 
 Hi!👋 I'm a backend developer.  
-I'm currently studying Java and Spring.  
+I'm studying Java and Spring.  
 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,postgres)](https://skillicons.dev)
