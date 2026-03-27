@@ -11,19 +11,19 @@
 Hi!👋 I'm a backend developer.  
 
 ## Tech Stacks
-**Frontend**
+**Frontend**<br/>
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
 
-**Backend**
+**Backend**<br/>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle)](https://skillicons.dev)
 
-**Database**
+**Database**<br/>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-**Infra**
+**Infra**<br/>
 [![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
 
-**Tool**
+**Tool**<br/>
 [![My Skills](https://skillicons.dev/icons?i=git,idea,vscode,postman,figma,notion)](https://skillicons.dev)
 
 ## Links
